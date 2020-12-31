@@ -1,0 +1,12 @@
+.Header{
+    text-align:left;
+    display:inline-block;
+    padding-left:20px;
+}
+.Link{
+    float:right;
+    display:inline-block;
+    padding-top:20px;
+    padding-right:20px;
+
+}
