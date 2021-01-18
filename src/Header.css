@@ -1,12 +1,27 @@
 .Header{
     text-align:left;
-    display:inline-block;
+    padding-top:60px;
+    display:inline-block flex;
     padding-left:20px;
+    background:transparent;
+   
 }
 .Link{
     float:right;
-    display:inline-block;
-    padding-top:20px;
+    display:inline-block flex;
+    padding-top:90px;
     padding-right:20px;
+    background:transparent;
 
+
+}
+div{
+    background:transparent;
+    z-index:3;
+    max-width:screen;
+}
+@media screen and (max-width:300px){
+    .Header{
+        width:50%;
+    }
 }
