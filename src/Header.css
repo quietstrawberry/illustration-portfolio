@@ -1,27 +1,23 @@
+
+.container-1{
+    display:flex;
+  align-items:center;
+  justify-content: space-between;
+  z-index: 5;
+}
+
 .Header{
-    text-align:left;
-    padding-top:60px;
-    display:inline-block flex;
-    padding-left:20px;
-    background:transparent;
-   
+    font-size:2vw;
 }
 .Link{
-    float:right;
-    display:inline-block flex;
-    padding-top:90px;
-    padding-right:20px;
-    background:transparent;
-
-
+    font-size:2vw;
 }
+
+
+
 div{
     background:transparent;
-    z-index:3;
-    max-width:screen;
+    
 }
-@media screen and (max-width:300px){
-    .Header{
-        width:50%;
-    }
-}
+
+

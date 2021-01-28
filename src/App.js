@@ -11,7 +11,7 @@ function App() {
     <div>
       
        <Header   />
-       <Banner  />
+      <Banner   />
        <Footer   />
 
 
