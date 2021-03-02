@@ -1,6 +1,19 @@
+.container{
+    display:flex;
+    justify-content:center;
+}
 .img1{
-    width:10%;
+    width:28%;
     position:relative;
-    z-index:6;
     
 }
+.img2{
+    width:28%;
+    position:relative;
+
+}
+.img3{
+    width:28%;
+    position:relative;
+    
+};
