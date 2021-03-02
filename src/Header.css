@@ -11,6 +11,10 @@
 }
 .Link{
     font-size:2vw;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:200px;
+
 }
 
 
@@ -18,6 +22,11 @@
 div{
     background:transparent;
     
+}
+h2{
+    padding-left:40px;
+    padding-top:50px;
+
 }
 
 

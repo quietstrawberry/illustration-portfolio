@@ -5,6 +5,11 @@
     right:30%;
     position:fixed;
     margin:0 auto;
+    
    
 
+}
+h3 {
+    z-index:7;
+    font-size:2vw;
 }

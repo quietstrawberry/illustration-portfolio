@@ -3,6 +3,7 @@ import './App.css';
 import Header from "./Header";
 import Footer from "./Footer";
 import Banner from "./Banner";
+import Portfolio from "./Portfolio";
 
 
 
@@ -12,6 +13,8 @@ function App() {
       
        <Header   />
       <Banner   />
+      <br></br>
+      <Portfolio />
        <Footer   />
 
 
