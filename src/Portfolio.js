@@ -7,8 +7,10 @@ export default function Portfolio (){
     return(
 
         <div>
+            
         <h1>Moose Yetis</h1>
-        <br></br>
+        
+        
         <div className="container">
             
         <img className="img2" src="./MooseYeti2.jpg" alt="Moose Yeti 2"></img>

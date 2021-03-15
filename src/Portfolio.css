@@ -3,6 +3,7 @@ h1{
     display:flex;
     justify-content:center;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3vw;
 }
 .container{
     display:flex;

@@ -10,11 +10,13 @@ export default function Header (){
             <h2 className="Header" >Sarah Lane'e Studios</h2>
         </div>
         <div className="box-2">
+            
        
         <a href="null"  className="Link" >Portfolio</a>
         <a href="null"  className="Link">Contact</a> 
         <a href="null" className="Link" >About</a>
         <a href="null" className="Link" >Books</a>
+        
         </div>
 
         

@@ -4,11 +4,17 @@
   align-items:center;
   justify-content: space-between;
   z-index: 5;
+  vertical-align: middle;
+  align-content: center;
+  height:100%
+
 }
 
 .Header{
     font-size:3vw;
-    font-family: cursive;
+    font-family: cursive; 
+    padding-left:30px;
+     
     
 }
 .Link{
@@ -16,9 +22,15 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding-left:20px;
     padding-right:20px;
-    padding-top:200px;
+    
+    
+    
+    
+   
 
 }
+
+
 
 
 
@@ -26,10 +38,8 @@ div{
     background:transparent;
     
 }
-h2{
-    padding-left:40px;
-    padding-top:50px;
 
-}
+
+
 
 
