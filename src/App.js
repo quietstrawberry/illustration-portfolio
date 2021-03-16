@@ -13,7 +13,15 @@ function App() {
        <Header   />
       
       <br></br>
-      <Portfolio />
+      <Portfolio 
+      source1="./MooseYeti2.jpg" 
+      source2="./MooseYeti1.jpg"  
+      source3="./MooseYeti3.jpg"/>
+      <Portfolio
+      source1="Cozy1.jpg"
+      source2="Cozy2.jpg"
+      source3="Cozy3.jpg"
+      />
        <Footer   />
 
 
