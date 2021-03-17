@@ -8,7 +8,7 @@ export default function Portfolio (props){
 
         <div>
             
-        <h1>Moose Yetis</h1>
+        <h1>{props.section}</h1>
         
         
         <div className="container">
