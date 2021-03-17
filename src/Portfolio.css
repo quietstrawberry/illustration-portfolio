@@ -1,10 +1,13 @@
 h1{
     text-align:center;
     display:flex;
+    flex-direction:row;
+    flex:28%;
     justify-content:center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 3vw;
     background:transparent;
+    
 }
 .container{
     display:flex;
@@ -14,16 +17,20 @@ h1{
 .img1{
     width:28%;
     position:relative;
+    height:15%;
     
 }
 .img2{
+    
     width:28%;
     position:relative;
+    height:15%
 
 }
 .img3{
     width:28%;
     position:relative;
+    height:15%
 
     
 }
