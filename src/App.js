@@ -26,6 +26,12 @@ function App() {
       source2="Cozy2.jpg"
       source3="Cozy3.jpg"
       />
+      <Portfolio
+      section="Critters"
+      source1="./Critters1.jpg"
+      source2="./Critters2.jpg"
+      source3="./Critters3.jpg"
+      />
        <Footer   />
 
 
